@@ -1,0 +1,7 @@
+graph G {
+    Ahmed -- Rania [label=3];
+    Ahmed -- Karim [label=5];
+    Karim -- Youssef [label=2];
+    Rania -- Youssef [label=4];
+    Youssef -- Samira [label=1];
+}

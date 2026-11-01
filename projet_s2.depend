@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1743872720 source:c:\users\snoop\desktop\licence\asd\s2\projet_s2\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graph.h"
+	"LSTPTR.h"
+
+1743780826 source:c:\users\snoop\desktop\licence\asd\s2\projet_s2\eltuser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTUSER.h"
+	"ELTPRIM.h"
+
+1743785871 c:\users\snoop\desktop\licence\asd\s2\projet_s2\eltuser.h
+
+1743780274 c:\users\snoop\desktop\licence\asd\s2\projet_s2\eltprim.h
+
+1743785024 source:c:\users\snoop\desktop\licence\asd\s2\projet_s2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ELTUSER.h"
+	"graph.h"
+
+1743872915 source:c:\users\snoop\desktop\licence\asd\s2\projet_s2\lstptr.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LSTPTR.h"
+	"ELTPRIM.h"
+	"ELTUSER.h"
+
+1743872701 c:\users\snoop\desktop\licence\asd\s2\projet_s2\lstptr.h
+	"ELTUSER.h"
+
+1743872728 c:\users\snoop\desktop\licence\asd\s2\projet_s2\graph.h
+	"LSTPTR.h"
+
+1745244150 source:c:\users\snoop\desktop\projetasds2\projet_s2\eltuser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ELTUSER.h"
+	"ELTPRIM.h"
+
+1744911178 c:\users\snoop\desktop\projetasds2\projet_s2\eltuser.h
+
+1744912625 c:\users\snoop\desktop\projetasds2\projet_s2\eltprim.h
+
+1744911287 source:c:\users\snoop\desktop\projetasds2\projet_s2\lstptr.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LSTPTR.h"
+	"ELTPRIM.h"
+	"ELTUSER.h"
+
+1744140140 c:\users\snoop\desktop\projetasds2\projet_s2\lstptr.h
+	"ELTUSER.h"
+
+1745245096 source:c:\users\snoop\desktop\projetasds2\projet_s2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ELTUSER.h"
+	"graph.h"
+
+1744914051 c:\users\snoop\desktop\projetasds2\projet_s2\graph.h
+	"LSTPTR.h"
+
+1745245192 source:c:\users\snoop\desktop\projetasds2\projet_s2\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graph.h"
+	"LSTPTR.h"
+
